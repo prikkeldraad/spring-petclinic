@@ -1,4 +1,6 @@
-# Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/prikkeldraad/spring-petclinic.png?branch=master)](https://travis-ci.org/prikkeldraad/spring-petclinic/)
+# Spring PetClinic Sample Application 
+[![Build Status](https://travis-ci.org/prikkeldraad/spring-petclinic.png?branch=master)](https://travis-ci.org/prikkeldraad/spring-petclinic/)
+[![codecov](https://codecov.io/gh/prikkeldraad/spring-petclinic/branch/master/graph/badge.svg)](https://codecov.io/gh/prikkeldraad/spring-petclinic)
 
 ## Understanding the Spring Petclinic application with a few diagrams
 <a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">See the presentation here</a>
